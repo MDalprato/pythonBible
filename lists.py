@@ -7,3 +7,4 @@ nomi.append("annamaria")
 print(nomi)
 nomi.remove("annamaria")
 print(nomi)
+
